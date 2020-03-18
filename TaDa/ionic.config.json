@@ -1,0 +1,7 @@
+{
+  "name": "TaDa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
